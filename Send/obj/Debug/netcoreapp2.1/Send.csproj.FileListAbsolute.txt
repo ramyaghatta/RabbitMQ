@@ -1,0 +1,11 @@
+E:\GIT\CITZENS_Queuing\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.deps.json
+E:\GIT\CITZENS_Queuing\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.json
+E:\GIT\CITZENS_Queuing\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.dev.json
+E:\GIT\CITZENS_Queuing\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.dll
+E:\GIT\CITZENS_Queuing\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.pdb
+E:\GIT\CITZENS_Queuing\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.csprojAssemblyReference.cache
+E:\GIT\CITZENS_Queuing\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.csproj.CoreCompileInputs.cache
+E:\GIT\CITZENS_Queuing\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfoInputs.cache
+E:\GIT\CITZENS_Queuing\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
+E:\GIT\CITZENS_Queuing\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.dll
+E:\GIT\CITZENS_Queuing\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.pdb

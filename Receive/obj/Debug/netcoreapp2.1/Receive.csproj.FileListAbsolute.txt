@@ -1,0 +1,11 @@
+E:\GIT\CITZENS_Queuing\RabbitMQ\Receive\bin\Debug\netcoreapp2.1\Receive.deps.json
+E:\GIT\CITZENS_Queuing\RabbitMQ\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.json
+E:\GIT\CITZENS_Queuing\RabbitMQ\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.dev.json
+E:\GIT\CITZENS_Queuing\RabbitMQ\Receive\bin\Debug\netcoreapp2.1\Receive.dll
+E:\GIT\CITZENS_Queuing\RabbitMQ\Receive\bin\Debug\netcoreapp2.1\Receive.pdb
+E:\GIT\CITZENS_Queuing\RabbitMQ\Receive\obj\Debug\netcoreapp2.1\Receive.csprojAssemblyReference.cache
+E:\GIT\CITZENS_Queuing\RabbitMQ\Receive\obj\Debug\netcoreapp2.1\Receive.csproj.CoreCompileInputs.cache
+E:\GIT\CITZENS_Queuing\RabbitMQ\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfoInputs.cache
+E:\GIT\CITZENS_Queuing\RabbitMQ\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
+E:\GIT\CITZENS_Queuing\RabbitMQ\Receive\obj\Debug\netcoreapp2.1\Receive.dll
+E:\GIT\CITZENS_Queuing\RabbitMQ\Receive\obj\Debug\netcoreapp2.1\Receive.pdb
